@@ -1,6 +1,4 @@
-# Compute Engine: Qwik Start - Windows || [GSP093](https://www.cloudskillsboost.google/focuses/560?parent=catalog) ||
-
-## Solution [here](https://youtu.be/Kh2evyNTQTs)
+# Compute Engine: Qwik Start - Windows 
 
 ### Run the following Commands in CloudShell
 ```
@@ -20,6 +18,3 @@ sudo chmod +x gsp093.sh
 
 #### *Well done!*
 
-#### Don't Forget to Join the [Telegram Channel](https://t.me/quickgcplab) & [Discussion group](https://t.me/quickgcplabchats)
-
-# [QUICK GCP LAB](https://www.youtube.com/@quickgcplab)
